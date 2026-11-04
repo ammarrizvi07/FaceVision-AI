@@ -1,0 +1,3 @@
+from app.services.registration_service import RegistrationService
+from app.services.recognition_service import RecognitionService
+from app.services.dashboard_service import DashboardService
